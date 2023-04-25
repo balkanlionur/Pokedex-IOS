@@ -1,5 +1,4 @@
 # Pokedex-IOS
- pokedex
 
 Pokedex photo click for watch to video
  
