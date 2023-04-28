@@ -1,5 +1,12 @@
 # Pokedex-IOS
 
+- IOS 16.2
+- Swift UIKit
+- MVVM
+- Json / REST API / Async / Extension 
+- CoreData
+- Package manager
+
 Click for watch to video
  
 
